@@ -2,12 +2,14 @@ server:
   port: 8085
 spring:
   application:
+
     name: user-service
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/cys
     username: root
-    password: 123
+    password: chen321
     driver-class-name: com.mysql.jdbc.Driver
+
 
 
 #配置eureka注册中心
@@ -24,4 +26,12 @@ eureka:
 
 mybatis:
   type-aliases-package: com.cys.user.pojo
+  mapper-locations: mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+mapper:
+  not-empty: false
+  identity: mysql
+
+
 

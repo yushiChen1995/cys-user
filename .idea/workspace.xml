@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0b4dda7-7b97-4625-a05e-aaa581fef3de" name="Default Changelist" comment="" />
+    <list default="true" id="a0b4dda7-7b97-4625-a05e-aaa581fef3de" name="Default Changelist" comment="用户微服务">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/UserUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/UserUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/req/CreateUserInfoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/req/CreateUserInfoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/UserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/UserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/IUserDbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/IUserDbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/IUserInfoDbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/IUserInfoDbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserDbServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserDbServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserInfoDbServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserInfoDbServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/resources/mapper.user/OauthUserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/resources/mapper.user/UserInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/main/resources/mapper.user/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/src/test/java/com/cys/user/service/impl/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/src/test/java/com/cys/user/service/impl/UserServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/UserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/UserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/dao/OauthUserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/dao/OauthUserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/dao/UserInfoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/dao/UserInfoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/dao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/dao/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/OauthUserExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/OauthUserExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/OauthUserExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/OauthUserExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/OauthUserExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/OauthUserExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/OauthUserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/OauthUserExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserInfoExample$Criteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserInfoExample$Criteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserInfoExample$Criterion.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserInfoExample$Criterion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserInfoExample$GeneratedCriteria.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserInfoExample$GeneratedCriteria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserInfoExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/model/UserInfoExample.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/cys-user-service/target/" />
@@ -32,29 +70,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/UserApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$MAVEN_REPOSITORY$/com/cys/services/cys-parent/1.0-SNAPSHOT/cys-parent-1.0-SNAPSHOT.pom">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+            <state relative-caret-position="283">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/resp/QueryUserInfoResult.java">
+        <entry file="file://$PROJECT_DIR$/cys-user-service/src/test/java/com/cys/user/service/impl/UserServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="320">
+              <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/IUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserInfoDbServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,10 +129,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/req/CreateUserInfoRequest.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="208">
+              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/dao/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserDbServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1612">
+              <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,66 +159,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/cys/services/cys-common/1.5-SNAPSHOT/cys-common-1.5-SNAPSHOT.jar!/com/cys/constraints/Mobile.class">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/cys/services/cys-common/1.5-SNAPSHOT/cys-common-1.5-SNAPSHOT.jar!/com/cys/utils/Utilities.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="98">
+              <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/cys/services/cys-common/1.2-SNAPSHOT/cys-common-1.2-SNAPSHOT.jar!/BOOT-INF/classes/com/cys/constraints/Mobile.class">
+        <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="322">
+              <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/javax/validation/constraints/NotBlank.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/UserApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cys-user-interface/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cys-user-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -142,7 +193,12 @@
       <find>hibernate</find>
       <find>2.0.1</find>
       <find>main</find>
+      <find>mob</find>
+      <find>selectByExample</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,16 +206,30 @@
         <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/datasource.properties" />
         <option value="$PROJECT_DIR$/generator/generatorConfig_car_owner.xml" />
-        <option value="$PROJECT_DIR$/cys-user-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/dao/UserInfoMapper.java" />
         <option value="$PROJECT_DIR$/generator/generatorConfig_user.xml" />
         <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/dao/OauthUserMapper.java" />
-        <option value="$PROJECT_DIR$/cys-user-service/pom.xml" />
-        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/UserApplication.java" />
         <option value="$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/resp/QueryUserInfoResult.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/cys-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/IUserDbService.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/test/java/com/cys/user/service/inner/impl/UserDbServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/IUserInfoDbService.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/IUserInfoDbServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/Util.java" />
+        <option value="$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/UserUtil.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/IUserInfoDbService.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserInfoDbServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/req/CreateUserInfoRequest.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/test/java/com/cys/user/service/impl/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/cys-user-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/cys-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/UserApplication.java" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserDbServiceImpl.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -182,6 +252,11 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="cys-user-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cys-user-interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
@@ -189,11 +264,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-5" />
+    <option name="y" value="44" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -245,48 +321,6 @@
             <path>
               <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
               <item name="cys-user" type="462c0819:PsiDirectoryNode" />
-              <item name="cys-user-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="contract" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
-              <item name="cys-user-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="contract" type="462c0819:PsiDirectoryNode" />
-              <item name="req" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
-              <item name="cys-user-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="contract" type="462c0819:PsiDirectoryNode" />
-              <item name="resp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
-              <item name="cys-user-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
               <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -318,6 +352,101 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="inner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="inner" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cys-user" type="462c0819:PsiDirectoryNode" />
+              <item name="cys-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
@@ -347,7 +476,108 @@
               <item name="Maven: com.cys.services:cys-common:1.5-SNAPSHOT" type="70bed36:NamedLibraryElementNode" />
               <item name="cys-common-1.5-SNAPSHOT.jar" type="462c0819:PsiDirectoryNode" />
               <item name="cys" type="462c0819:PsiDirectoryNode" />
-              <item name="constraints" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: junit:junit:4.12" type="70bed36:NamedLibraryElementNode" />
+              <item name="junit-4.12.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="junit" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+              <item name="runners" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-test:4.3.23.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-test:4.3.23.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-test-4.3.23.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-test:4.3.23.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-test-4.3.23.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-test:4.3.23.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-test-4.3.23.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-test:4.3.23.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-test-4.3.23.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-test:4.3.23.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-test-4.3.23.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="junit4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cys-user" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-test:4.3.23.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-test-4.3.23.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="junit4" type="462c0819:PsiDirectoryNode" />
+              <item name="statements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -357,6 +587,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -364,8 +595,11 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/com/cys/services/cys-common/1.5-SNAPSHOT/cys-common-1.5-SNAPSHOT.jar!/com/cys/utils" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -377,6 +611,17 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cys.user.service.impl" />
+      <recent name="com.cys.user.service.inner.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\soa-micro\cys-user\cys-user-service\src\main\resources\mapper.user" />
+      <recent name="D:\idea\soa-micro\cys-user\cys-user-service\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.cys.user.contract.req" />
       <recent name="com.cys.user.contract.resp" />
@@ -404,7 +649,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.UserServiceImplTest.registerUserByMobile">
+    <configuration name="CreateUserInfoRequest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cys.user.contract.req.CreateUserInfoRequest" />
+      <module name="cys-user-interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cys.user.contract.req.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImplTest.registerUserByMobile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cys-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cys.user.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cys.user.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.cys.user.service.impl.UserServiceImplTest" />
+      <option name="METHOD_NAME" value="registerUserByMobile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cys-user-service" />
       <extension name="coverage">
@@ -420,7 +694,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserServiceImplTest.registerUserByMobile" />
         <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Application.CreateUserInfoRequest" />
       </list>
     </recent_temporary>
   </component>
@@ -438,18 +714,58 @@
       <workItem from="1561604955365" duration="7998000" />
       <workItem from="1561622835435" duration="3906000" />
       <workItem from="1561626750249" duration="1569000" />
-      <workItem from="1561628458510" duration="8696000" />
+      <workItem from="1561628458510" duration="18291000" />
     </task>
+    <task id="LOCAL-00001" summary="用户微服务">
+      <created>1561688776016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561688776016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 11h 50m 48s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 11h 54m 07s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 13h 56m 49s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 14h 01m 27s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 14h 23m 10s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 14h 24m 16s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 14h 33m 46s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 14h 40m 14s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 14h 41m 24s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_registerUserByMobile - 2019.06.28 at 14h 43m 10s.xml">
+      <configuration name="UserServiceImplTest.registerUserByMobile" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22579000" />
+    <option name="totallyTimeSpent" value="32174000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2889126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2889126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -460,13 +776,13 @@
       <window_info id="Learn" order="8" />
       <window_info id="Web" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4864572" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48590022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3286334" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -479,8 +795,8 @@
       <window_info anchor="bottom" id="JRebel Console" order="17" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="18" />
       <window_info anchor="bottom" id="Java Enterprise" order="19" />
-      <window_info anchor="bottom" id="Messages" order="20" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run Dashboard" order="21" weight="0.55146265" />
+      <window_info anchor="bottom" id="Messages" order="20" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run Dashboard" order="21" weight="0.55097616" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -496,10 +812,47 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="用户微服务" />
+    <option name="LAST_COMMIT_MESSAGE" value="用户微服务" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cys-user-service/src/test/java/com/cys/user/service/impl/UserServiceImplTest.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserDbServiceImpl.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/impl/UserServiceImpl.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserInfoDbServiceImpl.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/impl/UserServiceImpl.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-maven-plugin/1.3.5/mybatis-generator-maven-plugin-1.3.5.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
     <entry file="file://$PROJECT_DIR$/generator/gen.sh">
@@ -516,18 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/resources/mappers/user/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/validator/hibernate-validator/6.0.9.Final/hibernate-validator-6.0.9.Final.jar!/org/hibernate/validator/constraints/NotBlank.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -535,37 +876,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/pojo/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/pojo/UserInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generator/generatorConfig_user.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="94" column="37" selection-start-line="94" selection-start-column="37" selection-end-line="94" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/model/UserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2418">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,13 +938,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1456">
-          <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/dao/UserInfoMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -643,17 +950,6 @@
     </entry>
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.0.1.RELEASE/spring-boot-starter-web-2.0.1.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/UserApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/resp/QueryUserInfoResult.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -686,30 +982,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/cys/services/cys-common/1.5-SNAPSHOT/cys-common-1.5-SNAPSHOT.jar!/com/cys/constraints/Mobile.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -717,13 +989,252 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/req/CreateUserInfoRequest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/cys/services/cys-common/1.5-SNAPSHOT/cys-common-1.5-SNAPSHOT.jar!/com/cys/utils/DateUtil.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="376">
+          <caret line="247" column="29" selection-start-line="247" selection-start-column="29" selection-end-line="247" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/test/java/com/cys/user/service/inner/impl/UserDbServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/UserUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/IUserInfoDbService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/IUserDbService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generator/generatorConfig_user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="94" column="37" selection-start-line="94" selection-start-column="37" selection-end-line="94" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/resources/mapper.user/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="115" column="11" selection-start-line="115" selection-start-column="11" selection-end-line="115" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/target/test-classes/com/cys/user/service/impl/UserServiceImplTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/target/classes/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/model/UserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2-sources.jar!/org/mybatis/spring/annotation/MapperScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="87" column="11" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/target/classes/mapper.user/OauthUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/target/classes/mapper.user/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/target/classes/com/cys/user/dao/OauthUserMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-interface/src/main/java/com/cys/user/contract/req/CreateUserInfoRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="39" column="20" selection-start-line="32" selection-start-column="8" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/4.3.23.RELEASE/spring-test-4.3.23.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/test/java/com/cys/user/service/impl/UserServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/cys/services/cys-common/1.5-SNAPSHOT/cys-common-1.5-SNAPSHOT.jar!/com/cys/utils/Utilities.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserDbServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1612">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cys-user-service/src/main/java/com/cys/user/service/inner/impl/UserInfoDbServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>

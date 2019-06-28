@@ -1,0 +1,6 @@
+com\cys\user\contract\resp\QueryUserInfoResult.class
+com\cys\user\pojo\OauthUser.class
+com\cys\user\contract\req\CreateUserInfoRequest.class
+com\cys\user\pojo\UserInfo.class
+com\cys\user\UserUtil.class
+com\cys\user\pojo\User.class

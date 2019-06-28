@@ -1,1 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea
+.idea/workspace.xml
+
+cys-user-interface/target/*
+cys-user-service/target/*
+
+*.iml

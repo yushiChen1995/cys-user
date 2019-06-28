@@ -1,5 +1,6 @@
 D:\idea\soa-micro\cys-user\cys-user-interface\src\main\java\com\cys\user\pojo\OauthUser.java
 D:\idea\soa-micro\cys-user\cys-user-interface\src\main\java\com\cys\user\contract\req\CreateUserInfoRequest.java
 D:\idea\soa-micro\cys-user\cys-user-interface\src\main\java\com\cys\user\pojo\User.java
+D:\idea\soa-micro\cys-user\cys-user-interface\src\main\java\com\cys\user\UserUtil.java
 D:\idea\soa-micro\cys-user\cys-user-interface\src\main\java\com\cys\user\contract\resp\QueryUserInfoResult.java
 D:\idea\soa-micro\cys-user\cys-user-interface\src\main\java\com\cys\user\pojo\UserInfo.java

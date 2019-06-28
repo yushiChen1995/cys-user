@@ -34,5 +34,4 @@ public class CreateUserInfoRequest implements Serializable {
     @NotBlank
     private Byte gender;
 
-
 }
