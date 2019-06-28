@@ -1,0 +1,27 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: user-service
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/cys
+    username: root
+    password: 123
+    driver-class-name: com.mysql.jdbc.Driver
+
+
+#配置eureka注册中心
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka #eureka注册中心的位置
+  instance:
+    lease-renewal-interval-in-seconds: 5 #每隔5秒发送一次心跳
+    lease-expiration-duration-in-seconds: 20 # 20秒不发就默认过期
+    prefer-ip-address: true  #当调用getHostname获取实例的hostname时，返回ip而不是host名称
+    ip-address: 127.0.0.1 #指定自己的ip信息
+    instance-id: ${spring.application.name}:${server.port} #区分同一服务的不同实例的唯一标准，因此不能重复。
+
+mybatis:
+  type-aliases-package: com.cys.user.pojo
+
